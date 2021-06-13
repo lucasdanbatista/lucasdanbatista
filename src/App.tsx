@@ -3,6 +3,7 @@ import './App.css';
 import Background from './components/Background';
 import Center from "./components/Center";
 import Text, {TextSize} from "./components/Text";
+import RoundedButton from "./components/RoundedButton";
 
 function App() {
     return (
@@ -15,6 +16,9 @@ function App() {
                     <Text size={TextSize.SUBTITLE}>
                         Software Developer
                     </Text>
+                    <a href={process.env.PUBLIC_URL + '/files/resume.pdf'}>
+                        <RoundedButton>Download resume</RoundedButton>
+                    </a>
                 </Center>
             </Background>
         </div>
