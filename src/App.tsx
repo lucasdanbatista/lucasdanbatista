@@ -4,6 +4,10 @@ import Background from './components/Background';
 import Center from "./components/Center";
 import Text, {TextSize} from "./components/Text";
 import RoundedButton from "./components/RoundedButton";
+import IconButton from "./components/IconButton";
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faEnvelope} from '@fortawesome/free-solid-svg-icons';
+import {faGithub} from "@fortawesome/free-brands-svg-icons";
 
 function App() {
     return (
@@ -19,6 +23,18 @@ function App() {
                     <a href={process.env.PUBLIC_URL + '/files/resume.pdf'}>
                         <RoundedButton>Download resume</RoundedButton>
                     </a>
+                    <div className='row'>
+                        <a href='https://github.com/lucasdanbatista' target='_blank'>
+                            <IconButton>
+                                <FontAwesomeIcon icon={faGithub} size='lg'/>
+                            </IconButton>
+                        </a>
+                        <a href='mailto:lucasdanbatista@hotmail.com'>
+                            <IconButton>
+                                <FontAwesomeIcon icon={faEnvelope} size='lg'/>
+                            </IconButton>
+                        </a>
+                    </div>
                 </Center>
             </Background>
         </div>
