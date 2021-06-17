@@ -29,7 +29,7 @@ function App() {
                                 <FontAwesomeIcon icon={faGithub} size='lg'/>
                             </IconButton>
                         </a>
-                        <a href='mailto:lucasdanbatista@hotmail.com'>
+                        <a href='mailto:contact@lucasbatista.me'>
                             <IconButton>
                                 <FontAwesomeIcon icon={faEnvelope} size='lg'/>
                             </IconButton>
