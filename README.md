@@ -25,4 +25,4 @@
     [Clean Architecture](https://books.google.com.br/books?id=8ngAkAEACAAJ),
     [Design Patterns](https://books.google.com.br/books?id=6oHuKQe3TjQC),
     [Refactoring](https://books.google.com.br/books?id=UTgFCAAAQBAJ).
-- 📄 My resume is [here](https://github.com/lucasdanbatista/lucasdanbatista/raw/master/resume.pdf).
+- 📄 My resume is [here](https://github.com/lucasdanbatista/lucasdanbatista/raw/master/public/files/resume.pdf).
