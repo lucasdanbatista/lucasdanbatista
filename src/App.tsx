@@ -8,6 +8,7 @@ import IconButton from "./components/IconButton";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons';
 import {faGithub} from "@fortawesome/free-brands-svg-icons";
+import {faWhatsapp} from "@fortawesome/free-brands-svg-icons/faWhatsapp";
 
 function App() {
     return (
@@ -24,7 +25,7 @@ function App() {
                         <RoundedButton>Download resume</RoundedButton>
                     </a>
                     <div className='row'>
-                        <a href='https://github.com/lucasdanbatista' target='_blank'>
+                        <a href='https://github.com/lucasdanbatista'>
                             <IconButton>
                                 <FontAwesomeIcon icon={faGithub} size='lg'/>
                             </IconButton>
@@ -32,6 +33,11 @@ function App() {
                         <a href='mailto:contact@lucasbatista.me'>
                             <IconButton>
                                 <FontAwesomeIcon icon={faEnvelope} size='lg'/>
+                            </IconButton>
+                        </a>
+                        <a href='https://wa.me/+554791131491'>
+                            <IconButton>
+                                <FontAwesomeIcon icon={faWhatsapp} size='lg'/>
                             </IconButton>
                         </a>
                     </div>
