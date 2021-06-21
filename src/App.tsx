@@ -8,7 +8,7 @@ import IconButton from "./components/IconButton";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons';
 import {faGithub} from "@fortawesome/free-brands-svg-icons";
-import {faWhatsapp} from "@fortawesome/free-brands-svg-icons/faWhatsapp";
+import {faLinkedinIn} from "@fortawesome/free-brands-svg-icons/faLinkedinIn";
 
 function App() {
     return (
@@ -30,14 +30,14 @@ function App() {
                                 <FontAwesomeIcon icon={faGithub} size='lg'/>
                             </IconButton>
                         </a>
+                        <a href='https://www.linkedin.com/in/lucasdanbatista'>
+                            <IconButton>
+                                <FontAwesomeIcon icon={faLinkedinIn} size='lg'/>
+                            </IconButton>
+                        </a>
                         <a href='mailto:contact@lucasbatista.me'>
                             <IconButton>
                                 <FontAwesomeIcon icon={faEnvelope} size='lg'/>
-                            </IconButton>
-                        </a>
-                        <a href='https://wa.me/+554791131491'>
-                            <IconButton>
-                                <FontAwesomeIcon icon={faWhatsapp} size='lg'/>
                             </IconButton>
                         </a>
                     </div>
