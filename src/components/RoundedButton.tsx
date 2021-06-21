@@ -24,11 +24,11 @@ export default class RoundedButton extends React.Component<RoundedButtonProps, R
         return (
             <button
                 style={{
-                    borderRadius: '48px',
+                    borderRadius: '16vh',
                     backgroundColor: `rgba(255, 255, 255, ${this.state.hovered ? 0.5 : 0.8})`,
                     border: 'none',
                     color: 'rgba(0, 0, 0, 0.8)',
-                    padding: '14px',
+                    padding: '2vh',
                     textAlign: 'center',
                     textDecoration: 'none',
                     fontWeight: 'bold',

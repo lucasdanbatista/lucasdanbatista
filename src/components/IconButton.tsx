@@ -25,10 +25,11 @@ export default class IconButton extends React.Component<IconButtonProps, IconBut
             <button
                 style={{
                     borderRadius: '100%',
+                    width: '6vh',
+                    height: '6vh',
                     backgroundColor: `rgba(255, 255, 255, ${this.state.hovered ? 0.5 : 0.8})`,
                     border: 'none',
                     color: 'rgba(0, 0, 0, 0.8)',
-                    padding: '10px',
                     margin: '8px',
                     cursor: 'pointer'
                 }}
