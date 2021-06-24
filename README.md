@@ -16,7 +16,7 @@
     <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square" height="25px"/>
 </h3>
 
-- 💼 Mobile Developer at [Bean Softwares](https://beansoftwares.com.br).
+- 💼 Mobile developer at [Megaleios](https://megaleios.com).
 - 🎓 Computer Science student at [Univali](https://univali.br).
 - 🚀 Developing [iCut](https://icut.app).
 - 👨‍💻 Coding instructor in my free time.
