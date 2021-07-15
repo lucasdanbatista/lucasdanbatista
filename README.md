@@ -17,7 +17,7 @@
 </h3>
 
 - 💼 Mobile developer at [Megaleios](https://megaleios.com).
-- 🎓 Computer Science student at [Univali](https://univali.br).
+- 🎓 Computer Science student at [Univali](https://international.univali.br).
 - 🚀 Developing [iCut](https://icut.app).
 - 👨‍💻 Coding instructor in my free time.
 - 📚 Favorite books:
