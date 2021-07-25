@@ -23,6 +23,7 @@
 - 📚 Favorite books:
     [Clean Code](https://books.google.com.br/books?id=_i6bDeoCQzsC&lpg),
     [Clean Architecture](https://books.google.com.br/books?id=8ngAkAEACAAJ),
+    [Clean Agile](https://www.amazon.com.br/Clean-Agile-Robert-C-Martin/dp/0135781868),
     [Design Patterns](https://books.google.com.br/books?id=6oHuKQe3TjQC),
     [Refactoring](https://books.google.com.br/books?id=UTgFCAAAQBAJ).
 - 📄 My resume is [here](https://lucasbatista.me/files/resume.pdf).
