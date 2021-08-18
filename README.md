@@ -16,7 +16,7 @@
     <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square" height="25px"/>
 </h3>
 
-- 💼 Mobile developer at [Megaleios](https://megaleios.com).
+- 💼 Mobile Engineer.
 - 🎓 Computer Science student at [Univali](https://international.univali.br).
 - 🚀 Developing [iCut](https://icut.app).
 - 👨‍💻 Coding instructor in my free time.
