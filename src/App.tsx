@@ -3,7 +3,6 @@ import './App.css';
 import Background from './components/Background';
 import Center from "./components/Center";
 import Text, {TextSize} from "./components/Text";
-import RoundedButton from "./components/RoundedButton";
 import IconButton from "./components/IconButton";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faEnvelope} from '@fortawesome/free-solid-svg-icons';
@@ -21,9 +20,6 @@ function App() {
                     <Text size={TextSize.SUBTITLE}>
                         Software Developer
                     </Text>
-                    <a href={process.env.PUBLIC_URL + '/files/resume.pdf'}>
-                        <RoundedButton>Download resume</RoundedButton>
-                    </a>
                     <div className='row'>
                         <a href='https://github.com/lucasdanbatista'>
                             <IconButton>
