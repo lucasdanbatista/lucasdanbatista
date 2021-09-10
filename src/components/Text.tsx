@@ -31,7 +31,7 @@ export default class Text extends React.Component<TextProps> {
 
     private applyStyle(): any {
         const style = {
-            color: 'white',
+            color: 'rgba(255,255,255,0.9)',
             fontFamily: 'monospace',
             fontSize: '',
             fontWeight: '',
@@ -43,7 +43,7 @@ export default class Text extends React.Component<TextProps> {
                 style.fontWeight = 'bold';
                 break;
             case TextSize.SUBTITLE:
-                style.fontSize = '4vh';
+                style.fontSize = '3.5vh';
                 style.fontWeight = 'normal';
                 break;
         }
