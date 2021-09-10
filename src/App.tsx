@@ -14,12 +14,14 @@ function App() {
         <div className="App">
             <Background>
                 <Center>
-                    <Text size={TextSize.H1}>
-                        Lucas Batista
-                    </Text>
-                    <Text size={TextSize.SUBTITLE}>
-                        Software Developer
-                    </Text>
+                    <div style={{
+                        padding: 24,
+                    }}>
+                        <Text size={TextSize.H1}>Lucas Batista</Text>
+                        <Text size={TextSize.SUBTITLE}>
+                            Mobile developer
+                        </Text>
+                    </div>
                     <div className='row'>
                         <a href='https://github.com/lucasdanbatista'>
                             <IconButton>
