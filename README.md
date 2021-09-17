@@ -18,9 +18,5 @@
 
 - 💼 Mid. Android Developer at [Americanas](https://www.americanas.com.br/).
 - 🎓 Computer Science student at [Univali](https://international.univali.br).
+- ✍ Tech writer at [Medium](https://blog.lucasbatista.me)
 - 💬 We can talk on [LinkedIn](https://www.linkedin.com/in/lucasdanbatista/?locale=en_US).
-- 📚 Favorite books:
-    [Clean Code](https://books.google.com.br/books?id=_i6bDeoCQzsC&lpg),
-    [Clean Architecture](https://books.google.com.br/books?id=8ngAkAEACAAJ),
-    [Design Patterns](https://books.google.com.br/books?id=6oHuKQe3TjQC),
-    [Refactoring](https://books.google.com.br/books?id=UTgFCAAAQBAJ).
