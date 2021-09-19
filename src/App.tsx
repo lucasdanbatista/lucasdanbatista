@@ -24,7 +24,7 @@ function App() {
           <Text size={TextSize.H1}>Lucas Batista</Text>
           <Text size={TextSize.SUBTITLE}>Mobile developer</Text>
           <a href="mailto:contact@lucasbatista.me">
-            <RoundedButton>Send-me a email</RoundedButton>
+            <RoundedButton>Send-me an e-mail</RoundedButton>
           </a>
           <div className="row">
             <a href="https://github.com/lucasdanbatista">
