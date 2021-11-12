@@ -16,7 +16,7 @@
     <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square" height="25px"/>
 </h3>
 
-- 💼 Mid. Android developer at [americanas s.a](https://www.americanas.com.br/)
+- 💼 Android developer at [americanas s.a](https://www.americanas.com.br/)
 - 🎓 Computer Science student at [Univali](https://international.univali.br)
 - 🚀 Developing [iCut](https://icut.app)
 - ✍ Tech writer at [Medium](https://blog.lucasbatista.me)
