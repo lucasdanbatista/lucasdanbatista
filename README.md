@@ -18,6 +18,5 @@
 
 - 💼 Android developer at [americanas s.a](https://www.americanas.com.br/)
 - 🎓 Computer Science student at [Univali](https://international.univali.br)
-- 🚀 Developing [iCut](https://icut.app)
 - ✍ Tech writer at [Medium](https://blog.lucasbatista.me)
 - 💬 We can talk on [LinkedIn](https://www.linkedin.com/in/lucasdanbatista/?locale=en_US)
