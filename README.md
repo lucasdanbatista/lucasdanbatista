@@ -5,7 +5,8 @@
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square" height="25px"/>
     <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square" height="25px"/>
     <img alt="React" src="https://img.shields.io/badge/-React-50B5D0?style=flat-square" height="25px"/>
-    <img alt="Spring" src="https://img.shields.io/badge/-Spring-56c93f?style=flat-square" height="25px"/>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring-56c93f?style=flat-square" height="25px"/>
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-e91e63?style=flat-square" height="25px"/>
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9800?style=flat-square" height="25px"/>
     <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-111B29?style=flat-square" height="25px"/>
     <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-4479A1?style=flat-square" height="25px"/>
@@ -18,5 +19,4 @@
 
 - 💼 Android developer at [americanas s.a](https://www.americanas.com.br/)
 - 🎓 Computer Science student at [Univali](https://international.univali.br)
-- ✍ Tech writer at [Medium](https://blog.lucasbatista.me)
 - 💬 We can talk on [LinkedIn](https://www.linkedin.com/in/lucasdanbatista/?locale=en_US)
