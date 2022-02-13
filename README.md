@@ -2,9 +2,9 @@
     Hello, I'm Lucas! <img alt="emoji" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 </h1>
 <h3 align="center">
+    <img alt="Android" src="https://img.shields.io/badge/-Android-8BC34A?style=flat-square" height="25px"/>
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square" height="25px"/>
-    <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square" height="25px"/>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring-56c93f?style=flat-square" height="25px"/>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-56c93f?style=flat-square" height="25px"/>
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9800?style=flat-square" height="25px"/>
     <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-673AB7?style=flat-square" height="25px"/>
     <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-4479A1?style=flat-square" height="25px"/>
