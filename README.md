@@ -4,11 +4,9 @@
 <h3 align="center">
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square" height="25px"/>
     <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square" height="25px"/>
-    <img alt="React" src="https://img.shields.io/badge/-React-50B5D0?style=flat-square" height="25px"/>
     <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring-56c93f?style=flat-square" height="25px"/>
-    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-e91e63?style=flat-square" height="25px"/>
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9800?style=flat-square" height="25px"/>
-    <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-111B29?style=flat-square" height="25px"/>
+    <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-673AB7?style=flat-square" height="25px"/>
     <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-4479A1?style=flat-square" height="25px"/>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square" height="25px"/>
     <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square" height="25px"/>
