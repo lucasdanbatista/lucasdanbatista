@@ -6,6 +6,7 @@
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square" height="25px"/>
     <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-56c93f?style=flat-square" height="25px"/>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-673AB7?style=flat-square" height="25px"/>
+    <img alt="SendGrid" src="https://img.shields.io/badge/-SendGrid-03A9F4?style=flat-square" height="25px"/>
     <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-4CAF50?style=flat-square" height="25px"/>
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9800?style=flat-square" height="25px"/>
     <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-607D8B?style=flat-square" height="25px"/>
