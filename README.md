@@ -12,7 +12,6 @@
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9800?style=flat-square" height="25px"/>
     <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-607D8B?style=flat-square" height="25px"/>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square" height="25px"/>
-    <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-009688?style=flat-square" height="25px"/>
     <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-607D8B?style=flat-square" height="25px"/>
 </h3>
 
