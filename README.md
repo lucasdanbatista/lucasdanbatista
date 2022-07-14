@@ -13,7 +13,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square" height="25px"/>
     <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-607D8B?style=flat-square" height="25px"/>
     <img alt="Mockito" src="https://img.shields.io/badge/-Mockito-4CAF50?style=flat-square" height="25px"/>
-    <img alt="JUnit" src="https://img.shields.io/badge/-Junit-009688?style=flat-square" height="25px"/>
+    <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-009688?style=flat-square" height="25px"/>
 </h3>
 
 Mobile and backend developer with more than 4 years of experience. Passionate about Software Engineering, Clean Architecture, SOLID, YAGNI, KISS and TDD. Nowadays, working with Android, Flutter and Spring.
