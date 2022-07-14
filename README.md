@@ -16,7 +16,7 @@
     <img alt="JUnit" src="https://img.shields.io/badge/-Junit-009688?style=flat-square" height="25px"/>
 </h3>
 
-Mobile and backend developer with more than 4 years of experience. Passionate about Software Engineering, Clean Architecture, SOLID, YAGNI, KISS and TDD. Nowaday, working with Android, Flutter and Spring.
+Mobile and backend developer with more than 4 years of experience. Passionate about Software Engineering, Clean Architecture, SOLID, YAGNI, KISS and TDD. Nowadays, working with Android, Flutter and Spring.
 
 - 💼 Android developer at [americanas s.a](https://www.americanas.com.br/)
 - 🎓 Computer Science student at [Univali](https://international.univali.br)
