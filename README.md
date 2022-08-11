@@ -22,4 +22,4 @@ Mobile and backend developer with more than 4 years of experience. Passionate ab
 - 🎓 Computer Science student at [Univali](https://international.univali.br)
 - 🚀 Developing [iCut: online barbershops](https://play.google.com/store/apps/details?id=app.icut.customer)
 - 💘 Developing [Unilovers: dating for students](https://play.google.com/store/apps/details?id=app.unilovers)
-- 💬 We can talk on [LinkedIn](https://www.linkedin.com/in/lucasdanbatista/?locale=en_US)
+- 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/lucasdanbatista/?locale=en_US)
