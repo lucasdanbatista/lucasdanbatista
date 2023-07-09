@@ -20,6 +20,4 @@ Mobile developer with 5 years of experience. Passionate about Software Engineeri
 
 - 💼 Android developer at [americanas s.a](https://www.americanas.com.br/)
 - 🎓 Computer Science student at [Univali](https://international.univali.br)
-- 💘 Developing [Unilovers: dating for students](https://play.google.com/store/apps/details?id=app.unilovers)
 - 🚀 Developing [iCut: online barbershops](https://play.google.com/store/apps/details?id=app.icut.customer)
-- 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/lucasdanbatista/?locale=en_US)
