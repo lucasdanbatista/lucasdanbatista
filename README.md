@@ -19,4 +19,4 @@
 Mobile developer with 5 years of experience. Passionate about Software Engineering, Clean Architecture, SOLID, YAGNI, KISS and TDD. Nowadays, working with Flutter and Spring.
 
 - 💼 Mobile developer (Flutter & Android)
-- 🎓 Undergraduate Computer Science (9/10) student at [Univali](https://international.univali.br)
+- 🎓 Undergraduate Computer Science student at [Univali](https://international.univali.br) (9/10)
