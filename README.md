@@ -18,6 +18,5 @@
 
 Mobile developer with 5 years of experience. Passionate about Software Engineering, Clean Architecture, SOLID, YAGNI, KISS and TDD. Nowadays, working with Android, Flutter and Spring.
 
-- 💼 Mobile developer (Android/Flutter)
-- 🎓 Computer Science (8/10) student at [Univali](https://international.univali.br)
-- 🚀 Developing [iCut: online barbershops](https://play.google.com/store/apps/details?id=app.icut.customer)
+- 💼 Mobile developer (Flutter & Android)
+- 🎓 Undergraduate Computer Science (9/10) student at [Univali](https://international.univali.br)
