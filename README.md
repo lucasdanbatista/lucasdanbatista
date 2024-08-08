@@ -16,7 +16,7 @@
     <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-009688?style=flat-square" height="25px"/>
 </h3>
 
-Mobile developer with 5 years of experience. Passionate about Software Engineering, Clean Architecture, SOLID, YAGNI, KISS and TDD. Nowadays, working with Flutter and Spring.
+I've been working with mobile development for 6 years. Mainly focused on e-commerce, I'd worked at the mainstream brazilian retail companies. I have a great experience since designing to publishing mobile apps.
 
 - 💼 Mobile developer (Flutter & Android)
-- 🎓 Undergraduate Computer Science student at [Univali](https://international.univali.br) (9/10)
+- 🎓 Undergraduate Computer Science student at [Univali](https://international.univali.br) (10/10)
