@@ -18,5 +18,6 @@
 
 I've been working with mobile development for 6 years. Mainly focused on e-commerce, I'd worked at the mainstream brazilian retail companies. I have a great experience since designing to publishing mobile apps.
 
-- 💼 Mobile developer (Flutter & Android)
-- 🎓 Undergraduate Computer Science student at [Univali](https://international.univali.br) (10/10)
+- 💼 Flutter/Android Mobile developer
+- 💼 Java/Kotlin Backend Developer
+- 🎓 Undergraduate Computer Science student
