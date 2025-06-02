@@ -16,7 +16,7 @@
     <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-009688?style=flat-square" height="25px"/>
 </h3>
 
-I've been working with mobile development for 6 years. Mainly focused on e-commerce, I'd worked at the mainstream brazilian retail companies. I have a great experience since designing to publishing mobile apps.
+I've been working with mobile development for 7 years. Mainly focused on e-commerce, I'd worked at the mainstream brazilian retail companies. I have a great experience since designing to publishing mobile apps.
 
 - 💼 Flutter/Android Mobile developer
 - 💼 Java/Kotlin Backend Developer
