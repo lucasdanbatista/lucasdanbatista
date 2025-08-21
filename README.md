@@ -16,8 +16,8 @@
     <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-009688?style=flat-square" height="25px"/>
 </h3>
 
-I've been working with mobile development for 7 years. Mainly focused on e-commerce, I'd worked at the mainstream brazilian and USA companies. I have a great experience since designing to publishing mobile apps.
+I'm a mobile developer with over 7 years of experience, specializing in building scalable and user-friendly applications. My main focus has been on e-commerce solutions, working with Flutter, native Android, GraphQL, and Spring Boot to deliver seamless digital experiences.
 
-- 💼 Flutter Mobile developer
-- 💼 Java Backend Developer
-- 🎓 Computer Science student
+Throughout my career, I’ve had the opportunity to collaborate with companies across diverse industries, including leading enterprises in Brazil and the United States, which gave me a broad perspective on product development and international best practices.
+
+I’m passionate about crafting high-quality apps that make a real impact on businesses and users alike.
