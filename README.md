@@ -16,7 +16,7 @@
     <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-009688?style=flat-square" height="25px"/>
 </h3>
 
-I'm a mobile developer with over 7 years of experience, specializing in building scalable and user-friendly applications. My main focus has been on e-commerce solutions, working with Flutter, native Android, GraphQL, and Spring Boot to deliver seamless digital experiences.
+I'm a mobile developer with over 8 years of experience, specializing in building scalable and user-friendly applications. My main focus has been on e-commerce solutions, working with Flutter, native Android, GraphQL, and Spring Boot to deliver seamless digital experiences.
 
 Throughout my career, I’ve had the opportunity to collaborate with companies across diverse industries, including leading enterprises in Brazil and the United States, which gave me a broad perspective on product development and international best practices.
 
